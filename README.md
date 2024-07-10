@@ -37,3 +37,8 @@ ReflectionsHub is a platform where I share my thoughts, insights, and reflection
 Join me on this exciting journey and explore the world of ReflectionsHub! Your support and feedback are invaluable as I continue to grow and improve this platform.
  grow and improve this platform.
 Visit ReflectionsHub and let’s start reflecting together! ✨
+
+#SCREENSHOTS
+![WhatsApp Image 2024-07-10 at 19 18 51_842fb1d0](https://github.com/Tanmay0809/CODTECH-Task2/assets/136161600/62fa8d46-c64d-4cdf-8a49-bc1cbc2fc44c)
+![WhatsApp Image 2024-07-10 at 19 18 27_a8d99028](https://github.com/Tanmay0809/CODTECH-Task2/assets/136161600/1247a96d-16e8-45ea-8efd-ef387683b861)
+![WhatsApp Image 2024-07-10 at 19 19 26_37bdfea7](https://github.com/Tanmay0809/CODTECH-Task2/assets/136161600/7396f73a-3ef0-4966-a548-c8520e3582de)
